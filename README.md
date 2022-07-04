@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+https://api.themoviedb.org/3/movie/popular?api_key=34b4c9411afd4aa9012888d78dc93358&language=en-US&page=1
+
+src={'https://image.tmdb.org/t/p/w500' "movie.backdrop_path"}
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
